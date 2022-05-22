@@ -1,0 +1,26 @@
+header{ 
+    width: 100%;
+     background: #e3b0b0; 
+     position: ; 
+     top: 50; height: 60px; 
+     opacity:.9;
+     
+}
+
+body{ 
+  font-family: 'Raleway', sans-serif;
+
+}
+
+.grid-container {
+  display: grid;
+  border: 2px solid #CB8665;
+  grid-template-rows: 100px [Line1] 100px [Line2] 100px [Line3] 100px [Line4];
+  grid-template-columns: auto; 
+
+}
+
+
+footer {
+  display: block;
+}
